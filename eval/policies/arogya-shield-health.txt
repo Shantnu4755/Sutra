@@ -1,0 +1,50 @@
+# Arogya Shield Health Policy
+Policy wording issued by Kavach General Insurance Ltd. This is a fictional policy written for a software demonstration. It is not an offer of insurance.
+
+## 1. Scope of cover
+This policy pays for medically necessary in-patient hospitalisation of the insured persons in India for an illness or injury that happens during the policy period, up to the sum insured shown in the policy schedule. Sum insured options are Rs 3,00,000, Rs 5,00,000, Rs 10,00,000 and Rs 25,00,000 per policy year, on an individual or a family floater basis.
+
+## 2. Waiting periods
+2.1 Initial waiting period: no claim is payable for any illness that starts within the first 30 days from the first policy start date. The initial waiting period does not apply to accidents.
+2.2 Specific illnesses: treatment of cataract, hernia, benign prostatic hypertrophy, joint replacement, kidney stones and sinusitis is covered only after 24 months of continuous coverage.
+2.3 Pre-existing diseases are covered only after 36 months of continuous coverage with us.
+2.4 Maternity expenses are covered after a waiting period of 24 months, up to Rs 50,000 for a normal delivery and up to Rs 75,000 for a caesarean delivery, for at most two deliveries during the lifetime of the policy.
+
+## 3. Limits on what we pay
+3.1 Room rent is payable up to 1% of the sum insured per day for a normal room, and up to 2% of the sum insured per day for an intensive care unit.
+3.2 If the insured person chooses a room above the limit, all related medical expenses are reduced in the same proportion, except medicines and implants.
+3.3 Pre-hospitalisation medical expenses are covered for 60 days before admission, and post-hospitalisation medical expenses for 90 days after discharge.
+3.4 Road ambulance charges are paid up to Rs 2,000 per hospitalisation.
+3.5 Day care procedures that need less than 24 hours in hospital, such as chemotherapy, dialysis and cataract surgery, are covered.
+3.6 AYUSH treatment (Ayurveda, Yoga, Unani, Siddha and Homeopathy) taken in a government-recognised hospital is covered up to 25% of the sum insured.
+3.7 The medical expenses of an organ donor for harvesting the organ are covered when the insured person is the recipient.
+
+## 4. Co-payment
+A co-payment of 20% applies to every claim for an insured person aged 61 years or above on the date of admission. There is no co-payment for insured persons aged 60 years or below.
+
+## 5. Exclusions
+We do not pay for:
+5.1 Cosmetic or plastic surgery, unless it is needed to treat an injury, burns or cancer.
+5.2 Intentional self-injury, attempted suicide, or treatment for alcohol or drug abuse.
+5.3 War, invasion, nuclear risks, or taking part in a criminal act.
+5.4 Treatment taken outside India.
+5.5 Dental treatment, spectacles, contact lenses and hearing aids, unless they are needed because of an accident.
+5.6 Infertility treatment, surrogacy and sterilisation.
+5.7 Experimental or unproven treatment, and rest cures.
+5.8 Injuries from hazardous or adventure sports such as skydiving, paragliding, motor racing and scuba diving.
+
+## 6. Making a claim
+6.1 Cashless claims: for a planned hospitalisation, the network hospital must send us the pre-authorisation request at least 48 hours before admission. For an emergency hospitalisation, we must be informed within 24 hours of admission.
+6.2 Reimbursement claims: send the claim form with the original bills, the discharge summary, investigation reports and prescriptions within 30 days of discharge.
+6.3 We settle or reject a claim within 30 days of receiving the last necessary document. If we are late, we pay interest at 2% above the bank rate for the delay.
+
+## 7. Bonus, renewal and free look
+7.1 No claim bonus: the sum insured goes up by 10% for every claim-free policy year, up to a maximum of 50% of the base sum insured. A claim reduces the bonus by 10% in the next policy year.
+7.2 The policy can be renewed for life. A grace period of 30 days is allowed to pay the renewal premium, but no claim is payable for a hospitalisation that starts during the grace period.
+7.3 Free-look period: you may cancel a new policy within 15 days of receiving it and get back the premium, less stamp duty and the cost of any pre-policy medical check-up.
+
+## 8. Cancellation by you
+You may cancel the policy at any time. We refund the premium as follows: cancelled within 1 month, 75% of the premium; within 1 to 3 months, 50%; within 3 to 6 months, 25%; after 6 months, no refund. No refund is made if a claim has been paid in the policy year.
+
+## 9. Complaints
+Write to grievance@kavach.example or call 1800-000-0000. If you are not satisfied with our reply within 15 days, you may approach the Insurance Ombudsman.

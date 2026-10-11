@@ -1,0 +1,42 @@
+# Safar Motor Policy
+Comprehensive policy for private cars, issued by Kavach General Insurance Ltd. This is a fictional policy written for a software demonstration. It is not an offer of insurance.
+
+## 1. What is covered
+Section I, own damage: loss of or damage to the insured car caused by fire, explosion, self-ignition, lightning, burglary, theft, riot, strike, flood, cyclone, earthquake, landslide or accidental external means, and while in transit by road, rail, inland waterway, lift or air.
+Section II, third party liability: your legal liability for death or bodily injury to any person, without limit, and for damage to third party property up to Rs 7,50,000.
+Section III, personal accident cover for the owner-driver: Rs 15,00,000 for death or permanent total disability while driving the car, or while getting into or out of it.
+
+## 2. Insured Declared Value (IDV)
+The IDV is the manufacturer's listed selling price less depreciation for the age of the car: up to 6 months old, 5%; 6 months to 1 year, 15%; 1 to 2 years, 20%; 2 to 3 years, 30%; 3 to 4 years, 40%; 4 to 5 years, 50%. For cars older than 5 years, the IDV is agreed between you and us. For a total loss or theft, we pay the IDV.
+
+## 3. Deductibles and depreciation on parts
+3.1 Compulsory deductible for each own damage claim: Rs 1,000 for cars with an engine up to 1500 cc, and Rs 2,000 for cars above 1500 cc.
+3.2 Depreciation on parts replaced after a partial loss: rubber, nylon and plastic parts, tyres, tubes and batteries, 50%; fibre glass parts, 30%; glass parts, nil; metal parts on a sliding scale from nil for cars up to 6 months old to 40% for cars more than 10 years old.
+3.3 Zero depreciation add-on: with this add-on we do not deduct depreciation on replaced parts, for up to two claims in a policy year. It can be bought for cars up to 5 years old.
+
+## 4. Exclusions
+We do not pay for:
+4.1 Damage while the car is driven by a person without a valid driving licence.
+4.2 Damage while the driver is under the influence of alcohol or drugs.
+4.3 Normal wear and tear, mechanical or electrical breakdown, and consequential loss.
+4.4 Damage outside India, damage from war or nuclear risks, or damage while the car is used for racing, speed testing or reliability trials.
+4.5 Use of the car for hire or reward, unless it is registered for commercial use.
+4.6 Damage to tyres and tubes alone, unless the car is damaged in the same accident.
+
+## 5. Making a claim
+5.1 Tell us about any accident within 7 days, and before you start repairs. Our surveyor may inspect the car.
+5.2 Theft: file an FIR with the police within 24 hours and tell us within 48 hours. We settle a theft claim when the police issue a non-traceable report, or 90 days after the FIR, whichever is earlier.
+5.3 Cashless repairs are available at our network garages. At any other garage you pay the bill and we reimburse the approved amount.
+5.4 Towing the car to the nearest garage after an accident is reimbursed up to Rs 1,500 per accident.
+
+## 6. No claim bonus
+For each claim-free year your own damage premium is reduced: 20% after one claim-free year, 25% after two, 35% after three, 45% after four, and 50% after five or more consecutive claim-free years. The bonus belongs to you, not to the car: when you sell your car you can transfer the bonus to your next car within 90 days.
+
+## 7. Add-ons you can buy
+7.1 Roadside assistance: flat tyre help, battery jump start, fuel delivery of up to 5 litres and a 24x7 helpline.
+7.2 Engine protect: damage to the engine from water getting in or oil leaking out.
+7.3 Return to invoice: on a total loss or theft, pays the gap between the IDV and the invoice price.
+7.4 Key replacement: up to Rs 10,000 for lost or stolen keys.
+
+## 8. Cancellation
+You may cancel the policy by writing to us. If no claim has been made, we refund the own damage premium for the unused period on a short period scale. The third party premium is not refunded unless you prove that the car is insured elsewhere.
